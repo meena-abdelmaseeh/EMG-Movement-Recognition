@@ -1,3 +1,8 @@
+% Name: PreprocessRMSWithLessComputation.m
+% Description: Compute running Window RMS signal
+% Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+% Data: March 23, 2015 
+
 function ProcessedData =  PreprocessRMSWithLessComputation(Data, WindowSize)
 NoOfChannels  = size(Data,2); 
 NoOfSamples = size(Data,1); 
