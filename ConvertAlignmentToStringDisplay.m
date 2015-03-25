@@ -1,3 +1,8 @@
+% Name: ConvertAlignmentToStringDisplay.m
+% Description: function to convert the alignment resuling from the align function to a readable format.
+% Authors: Tsu-Wei Chen, Meena AbdelMaseeh and Daniel Stashuk
+% Data: March 23, 2015 
+
 function [AlignmentDisplay] = ConvertAlignmentToStringDisplay(NumericS, NumericT, SubstitutionMatrix, Symbols, Alignment)
 AlignmentLength = size(Alignment,1);
 AlignmentDisplay1 = '';
