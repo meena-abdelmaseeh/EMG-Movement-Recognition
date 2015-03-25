@@ -1,8 +1,7 @@
 % Name: Align.m
 % Description: function to perform DP-based alignemnt 
-% Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+% Authors: Tsu-Wei Chen, Meena AbdelMaseeh and Daniel Stashuk
 % Data: March 23, 2015 
-
 
 function [Score Alignment] = Align(S, T, SubstitutionMatrix, LinearGapScore)
 n = length(S);
