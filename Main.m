@@ -1,3 +1,9 @@
+% Name: Main.m
+% Description: Run the trajectory extraction and classification algorithms
+% Authors:Meena AbdelMaseeh, Tsu-Wei Chen and Daniel Stashuk
+% Data: March 23, 2015 
+
+
 %% Prepare the work space 
 clc; 
 clearvars; 
