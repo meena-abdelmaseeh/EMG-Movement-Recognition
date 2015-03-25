@@ -1,0 +1,12 @@
+DatabaseLocation = D:\Meena\RealTimeGestureRecognition\Ninapro\S1;
+InitialDecimationFactor = 6;
+SampleFrequency = 2000;
+FilterOrder = 2;
+CutOffFrequency = 20;
+RMSWindowLength = 64;
+UpperLimitForStd = 15;
+DecimationFactor = 6;
+MovingWindowLength = 20;
+MovingWindowThreshold = 2;
+MovingWindowNumActive = 15;
+Inertia = 462;
