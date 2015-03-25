@@ -1,3 +1,8 @@
+% Name: ConstructTrainTestMatrices.m
+% Description: Function to divide the signals into training and testing trials
+% Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+% Data: March 23, 2015 
+
 function [TestingGestureTrialMatrix,TrainingGestureTrialMatrix] =  ConstructTrainTestMatrices(RawGestureTrialMatrix)
 NumOfGestures = length(unique(cell2mat(RawGestureTrialMatrix(:,1)))) - 1;
 TestingGestureTrialMatrix = cell(0); 
