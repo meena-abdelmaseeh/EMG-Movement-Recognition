@@ -1,5 +1,5 @@
 % Name: ConstructTrainTestMatrices.m
-% Description: Function to divide the signals into training and testing trials
+% Description: Divide the data into training and testing trials
 % Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
 % Data: March 23, 2015 
 

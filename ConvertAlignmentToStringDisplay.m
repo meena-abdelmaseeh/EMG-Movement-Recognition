@@ -1,5 +1,5 @@
 % Name: ConvertAlignmentToStringDisplay.m
-% Description: function to convert the alignment resuling from the align function to a readable format.
+% Description: Convert the alignment to a readable format.
 % Authors: Tsu-Wei Chen, Meena AbdelMaseeh and Daniel Stashuk
 % Data: March 23, 2015 
 

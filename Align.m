@@ -1,5 +1,5 @@
 % Name: Align.m
-% Description: function to perform DP-based alignemnt 
+% Description: DP-based alignemnt 
 % Authors: Tsu-Wei Chen, Meena AbdelMaseeh and Daniel Stashuk
 % Data: March 23, 2015 
 
