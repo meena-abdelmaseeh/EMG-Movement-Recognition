@@ -1,3 +1,8 @@
+% Name: ExperimentFileReader.m
+% Description: Read the configuration file
+% Authors: Meena AbdelMaseeh, Tsu-Wei Chen,  and Daniel Stashuk
+% Data: March 23, 2015 
+
 function ExperimentSettings =  ExperimentFileReader (FilePath)
 fid = fopen(FilePath); 
 tline = fgets(fid);
