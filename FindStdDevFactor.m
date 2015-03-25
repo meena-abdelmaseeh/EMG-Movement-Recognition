@@ -1,3 +1,8 @@
+
+% Name: FindStdDevFactor.m
+% Description: Find the standard Dev Factor
+% Authors:Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+% Data: March 23, 2015 
 function StdFactor  = FindStdDevFactor (TrainingGestureTrialMatrix,TrainingMeanRMSValues,TrainingStdRMSValues)
 	global Settings;
     Settings = ExperimentFileReader('Configuration.exp');
