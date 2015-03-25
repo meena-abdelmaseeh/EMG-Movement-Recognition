@@ -1,3 +1,7 @@
+// Name: Align.m
+// Description: Mex function to extract EMG Trajectories
+// Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+// Data: March 23, 2015 
 # include "mex.h"
 # include <math.h>
 #include <list>
