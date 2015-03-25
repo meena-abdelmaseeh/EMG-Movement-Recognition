@@ -1,3 +1,10 @@
+// Name: Align.m
+// Description: Mex function to perform DTW
+//		The DTW implementation is based on Andrew Slater and John Coleman's DTW code written in C, and available here: 
+// 		http://www.phon.ox.ac.uk/files/slp/Extras/dtw.html
+// Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
+// Data: March 23, 2015 
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -5,8 +12,7 @@
 #define VERY_BIG  (1e30)
 #include "mex.h"
 
-//The DTW implementation is based on Andrew Slater and John Coleman's DTW code written in C, and available here: 
-// http://www.phon.ox.ac.uk/files/slp/Extras/dtw.html
+
 void dtw(double ** x, double ** y, int xsize,int ysize, int params, double* RetDist, double* RetK)
 {
 double **globdist;
