@@ -1,6 +1,11 @@
 About the code
 ==============
-The source code for the the manuscript titled [Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk, "Extraction and Classification of MultiChannel Electromyographic Activation Trajectories for Hand Movement Recognition," Under Revision]. 
+The source code for the the manuscript titled [AbdelMaseeh, M.; Chen, T.; Stashuk, D., "Extraction and Classification of Multichannel Electromyographic Activation Trajectories for Hand Movement Recognition," Neural Systems and Rehabilitation Engineering, IEEE Transactions on , vol.PP, no.99, pp.1,1 doi: 10.1109/TNSRE.2015.2447217]. 
+
+
+
+keywords: {Accuracy;Electrodes;Electromyography;Hidden Markov models;Muscles;Training;Trajectory},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128402&isnumber=4359219
 
 The paper proposes a system for hand movement recognition using multi-channel electromyographic (EMG) signals obtained from the forearm surface. This system can be potentially used to control prostheses or to provide input to a wide range of human computer interface systems. The developed methods were tested with the publicly available NINAPro database.
 
@@ -21,7 +26,7 @@ The developed methods were tested using the second version of the publicly avail
 
 
 1- For complete description of the data and the acquisition protocol, please refer to: 
-[M. Atzori, A. Gijsberts, C. Castellini, B. Caputo, A.-G. M. Hager, S. Elsig, G. Giatsidis, F. Bassetto, and H. Muller, ìElectromyography data for non-invasive naturally-controlled robotic hand prostheses,î Scientific Data, vol. 1, 2014.] .
+[M. Atzori, A. Gijsberts, C. Castellini, B. Caputo, A.-G. M. Hager, S. Elsig, G. Giatsidis, F. Bassetto, and H. Muller, ‚ÄúElectromyography data for non-invasive naturally-controlled robotic hand prostheses,‚Äù Scientific Data, vol. 1, 2014.] .
 
 2- The data can be downloaded from http://ninapro.hevs.ch .
 
@@ -42,4 +47,4 @@ Fairness of Usage
 =================
 Please reference in your paper as:
 
-Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk, "Extraction and Classification of MultiChannel Electromyographic Activation Trajectories for Hand Movement Recognition," Under Revision
+[AbdelMaseeh, M.; Chen, T.; Stashuk, D., "Extraction and Classification of Multichannel Electromyographic Activation Trajectories for Hand Movement Recognition," Neural Systems and Rehabilitation Engineering, IEEE Transactions on , vol.PP, no.99, pp.1,1 doi: 10.1109/TNSRE.2015.2447217]
