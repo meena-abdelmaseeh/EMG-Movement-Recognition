@@ -2,11 +2,6 @@ About the code
 ==============
 The source code for the the manuscript titled [AbdelMaseeh, M.; Chen, T.; Stashuk, D., "Extraction and Classification of Multichannel Electromyographic Activation Trajectories for Hand Movement Recognition," Neural Systems and Rehabilitation Engineering, IEEE Transactions on , vol.PP, no.99, pp.1,1 doi: 10.1109/TNSRE.2015.2447217]. 
 
-
-
-keywords: {Accuracy;Electrodes;Electromyography;Hidden Markov models;Muscles;Training;Trajectory},
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128402&isnumber=4359219
-
 The paper proposes a system for hand movement recognition using multi-channel electromyographic (EMG) signals obtained from the forearm surface. This system can be potentially used to control prostheses or to provide input to a wide range of human computer interface systems. The developed methods were tested with the publicly available NINAPro database.
 
 Build the code
