@@ -1,4 +1,4 @@
-// Name: Align.m
+// Name: FindTrajectories.cpp
 // Description: Mex function to extract EMG Trajectories
 // Authors: Meena AbdelMaseeh, Tsu-Wei Chen, and Daniel Stashuk
 // Data: March 23, 2015 
