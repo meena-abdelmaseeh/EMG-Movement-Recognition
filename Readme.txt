@@ -42,4 +42,5 @@ Fairness of Usage
 =================
 Please reference in your paper as:
 
-[AbdelMaseeh, M.; Chen, T.; Stashuk, D., "Extraction and Classification of Multichannel Electromyographic Activation Trajectories for Hand Movement Recognition," Neural Systems and Rehabilitation Engineering, IEEE Transactions on , vol.PP, no.99, pp.1,1 doi: 10.1109/TNSRE.2015.2447217]
+M. AbdelMaseeh, T. W. Chen and D. W. Stashuk, "Extraction and Classification of Multichannel Electromyographic Activation Trajectories for Hand Movement Recognition," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, vol. 24, no. 6, pp. 662-673, June 2016.
+doi: 10.1109/TNSRE.2015.2447217
